@@ -4,3 +4,12 @@ This is the github page of the paper published in **ICTC 2019**. Here you can fi
 
 ## Note
 The full text link, data, and the codes will be avavailble as soon as the manuscript is fully published in the publishers page.
+
+
+
+### For further queries
+Contact
+
+**M Shifat Hossain**
+
+shifathosn@kookmin.ac.kr
